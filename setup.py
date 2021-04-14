@@ -8,10 +8,10 @@ setup(
     name="txtclf-jdm-ia",
 
     packages=[
-        "iara.jdm_iara",
+        "iara_jdm_iara",
     ],
     package_dir={
-        "iara.jdm_iara": "jdm_ia/src",
+        "iara_jdm_iara": "jdm_ia/src",
     },
 
     version="production",
