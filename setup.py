@@ -6,7 +6,7 @@ with open("requirements.txt") as f:
 
 
 setup(
-    name="txtclf-scikit-painel-violencia-domestica",
+    name="txtclf-jdm-ia",
     version="production",
     description="Classificador JDM IA",
     author="JDM Team",
