@@ -11,7 +11,7 @@ setup(
         "iara.jdm_iara",
     ],
     package_dir={
-        "iara.jdm_iara": "jdm-ia/src",
+        "iara.jdm_iara": "jdm_ia/src",
     },
 
     version="production",
