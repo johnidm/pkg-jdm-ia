@@ -1,6 +1,6 @@
-def predict(model_name):
-    import os
+import os
 
+def predict(model_name):
     ROOT_DIR = os.path.abspath(os.getcwd())
     model_path = os.path.join(ROOT_DIR, "models", model_name)
 
