@@ -10,4 +10,5 @@ setup(
     description="Classificador JDM IA",
     author="JDM Team",
     install_requires=requirements,
+    include_package_data = True,
 )
