@@ -1,0 +1,1 @@
+pip install -e git+https://github.com/johnidm/pkg-jdm-ia#egg=pkg-jdm-ia
