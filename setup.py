@@ -10,7 +10,7 @@ setup(
         "iara_jdm_ia",
     ],
     package_dir={
-        "iara_jdm_ia": "jdm_ia/src",
+        "iara_jdm_ia": "jdm_ia",
     },
     version="production",
     description="Classificador JDM IA",
