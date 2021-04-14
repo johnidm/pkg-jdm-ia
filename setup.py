@@ -7,12 +7,11 @@ with open("requirements.txt") as f:
 setup(
     name="txtclf-jdm-ia",
     packages=[
-        "iara.jdm.ia",
+        "iara_jdm_ia",
     ],
     package_dir={
-        "iara.jdm.ia": "jdm_ia/src",
+        "iara_jdm_ia": "jdm_ia/src",
     },
-
     version="production",
     description="Classificador JDM IA",
     author="JDM Team",
